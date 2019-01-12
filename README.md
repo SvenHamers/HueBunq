@@ -13,6 +13,6 @@ Generate HueUsername https://www.sitebase.be/generate-phillips-hue-api-token/
 
 Generate a Bunq api key inside app
 
-dotnet HueBunq.dll -setapi <Bunqapikey> -HueIp <HueBridgeIp> -HueSecret <HueSecret>
+dotnet HueBunq.dll -setapi "<Bunqapikey>" -HueIp <HueBridgeIp> -HueSecret <HueSecret>
 
 for testing with bunq sandbox envoirment use switch -UseSandbox
