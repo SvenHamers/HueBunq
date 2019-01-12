@@ -1,0 +1,103 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "007cc12ed55f6c354e13eb576499c664ea5ffa6c"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "HueBunq/1.0.0": {
+        "dependencies": {
+          "Bunq.Sdk": "1.1.0",
+          "Q42.HueApi": "3.8.2",
+          "Q42.HueApi.ColorConverters": "3.8.1"
+        },
+        "runtime": {
+          "HueBunq.dll": {}
+        }
+      },
+      "Bunq.Sdk/1.1.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.1",
+          "System.Collections.Immutable": "1.4.0"
+        },
+        "runtime": {
+          "lib/netcoreapp1.1/Bunq.Sdk.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.1.22727"
+          }
+        }
+      },
+      "Q42.HueApi/3.8.2": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Q42.HueApi.dll": {
+            "assemblyVersion": "3.8.2.0",
+            "fileVersion": "3.8.2.0"
+          }
+        }
+      },
+      "Q42.HueApi.ColorConverters/3.8.1": {
+        "runtime": {
+          "lib/netstandard2.0/Q42.HueApi.ColorConverters.dll": {
+            "assemblyVersion": "3.8.1.0",
+            "fileVersion": "3.8.1.0"
+          }
+        }
+      },
+      "System.Collections.Immutable/1.4.0": {}
+    }
+  },
+  "libraries": {
+    "HueBunq/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bunq.Sdk/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zlJnrKMfWXRfmELp2QONW7w2LrLTLHg9e1Yg9zXDfPIjwzpxCADZaPAMV9iaTjiAj9kMf4CnbfEG0bycT8RUOQ==",
+      "path": "bunq.sdk/1.1.0",
+      "hashPath": "bunq.sdk.1.1.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jmVyoEyk0In8r+AObYQyFKVFm7uSRzE0XSHSbEtBJcZDMV6DqJoyB4FLcHwprPVhAh826so0db3DIKXVnpGoPA==",
+      "path": "newtonsoft.json/12.0.1",
+      "hashPath": "newtonsoft.json.12.0.1.nupkg.sha512"
+    },
+    "Q42.HueApi/3.8.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7Ho35tNQfBMrYmlheVoe+DATii820u99I0Unw5ox6+EmaRu504JtrZf+9D1k8wtc/qxUh+Rls4ba4HXXeZHFPA==",
+      "path": "q42.hueapi/3.8.2",
+      "hashPath": "q42.hueapi.3.8.2.nupkg.sha512"
+    },
+    "Q42.HueApi.ColorConverters/3.8.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Y2VA/pA949EBVUglFX0bHcxHfu3V/ckIkisY1EBMoRlqSgAvIQQ4+27d/EkmmbnsHMdNf6dOQMkXNPTVBb4sLA==",
+      "path": "q42.hueapi.colorconverters/3.8.1",
+      "hashPath": "q42.hueapi.colorconverters.3.8.1.nupkg.sha512"
+    },
+    "System.Collections.Immutable/1.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1aNA04B7wZWbZ8FgVg+Rg9vkzfQkmTwE1N6Lj3h14Gl8VupDS8j/mrfvv/FlQJL0ts8sMMKRgwnKntfQ1gQ3kQ==",
+      "path": "system.collections.immutable/1.4.0",
+      "hashPath": "system.collections.immutable.1.4.0.nupkg.sha512"
+    }
+  }
+}

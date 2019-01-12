@@ -1,0 +1,11 @@
+C:\Users\sven.QVISION.000\source\repos\HueBunq\HueBunq\bin\Release\netcoreapp2.1\HueBunq.deps.json
+C:\Users\sven.QVISION.000\source\repos\HueBunq\HueBunq\bin\Release\netcoreapp2.1\HueBunq.runtimeconfig.json
+C:\Users\sven.QVISION.000\source\repos\HueBunq\HueBunq\bin\Release\netcoreapp2.1\HueBunq.runtimeconfig.dev.json
+C:\Users\sven.QVISION.000\source\repos\HueBunq\HueBunq\bin\Release\netcoreapp2.1\HueBunq.dll
+C:\Users\sven.QVISION.000\source\repos\HueBunq\HueBunq\bin\Release\netcoreapp2.1\HueBunq.pdb
+C:\Users\sven.QVISION.000\source\repos\HueBunq\HueBunq\obj\Release\netcoreapp2.1\HueBunq.csprojAssemblyReference.cache
+C:\Users\sven.QVISION.000\source\repos\HueBunq\HueBunq\obj\Release\netcoreapp2.1\HueBunq.csproj.CoreCompileInputs.cache
+C:\Users\sven.QVISION.000\source\repos\HueBunq\HueBunq\obj\Release\netcoreapp2.1\HueBunq.AssemblyInfoInputs.cache
+C:\Users\sven.QVISION.000\source\repos\HueBunq\HueBunq\obj\Release\netcoreapp2.1\HueBunq.AssemblyInfo.cs
+C:\Users\sven.QVISION.000\source\repos\HueBunq\HueBunq\obj\Release\netcoreapp2.1\HueBunq.dll
+C:\Users\sven.QVISION.000\source\repos\HueBunq\HueBunq\obj\Release\netcoreapp2.1\HueBunq.pdb
